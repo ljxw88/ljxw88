@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![ljxw88's github stats](https://github-readme-stats.vercel.app/api?username=ljxw88&show_icons=true&theme=radical)
 
 <!--
 **ljxw88/ljxw88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
