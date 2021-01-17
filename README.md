@@ -1,4 +1,4 @@
-### 🌚 Emergency! Evacuate Now!! 🌝
+### POST-APOCALYPTIC!
 
 ![ljxw88's github stats](https://github-readme-stats.vercel.app/api?username=ljxw88&show_icons=true&theme=solarized-light)
 
