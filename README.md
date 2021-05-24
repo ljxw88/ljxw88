@@ -1,6 +1,5 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hola!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Non Terrae Plus Ultra!
 
-### Non Terrae Plus Ultra!
 ![ljxw88's github stats](https://github-readme-stats.vercel.app/api?username=ljxw88&show_icons=true&theme=solarized-light)
 
 <!--
