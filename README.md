@@ -1,8 +1,8 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Non Terrae Plus Ultra!
 
-![ljxw88's github stats](https://github-readme-stats.vercel.app/api?username=ljxw88&show_icons=true&theme=solarized-dark)
+![ljxw88's github stats](https://github-readme-stats.vercel.app/api?username=ljxw88&show_icons=true&theme=solarized-light)
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rishab-sharma/rishab-sharma/main/image.svg" />
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/rishab-sharma/rishab-sharma/main/image.svg" />
 
 
 [![Github](https://img.shields.io/badge/-Github-330c83?style=flat&logo=Github&logoColor=white)](https://github.com/ljxw88)
