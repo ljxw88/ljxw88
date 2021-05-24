@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Non Terrae Plus Ultra!
 
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/rishab-sharma/rishab-sharma/main/image.svg" />
+<img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/rishab-sharma/rishab-sharma/main/image.svg" />
 
 [![Github](https://img.shields.io/badge/-Github-330c83?style=flat&logo=Github&logoColor=white)](https://github.com/ljxw88)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-330c83?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jiaxu-liu-a000b619a/)
