@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on variational bayes optimization.
 - 🌱 I’m currently learning differential geometry, topology, and manifold. 
-- 📫 To reach me: jiaxu.liu@anu.edu.au
+- 📫 To reach me: jiaxu.liu@ieee.org
 - ⚡ Fun fact: Sydney is actually in both Canada and Australia...
 
 ![ljxw88's github stats](https://github-readme-stats.vercel.app/api?username=ljxw88&show_icons=true&theme=solarized-light)
