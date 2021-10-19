@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Non Terrae Plus Ultra!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Non Terrae Plus Ultra!
 
 <!-- <img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/rishab-sharma/rishab-sharma/main/image.svg" /> -->
 <!-- 
@@ -12,4 +12,4 @@
 - 📫 To reach me: jiaxu.liu@ieee.org
 <!-- - ⚡ Fun fact: Sydney is actually in both Canada and Australia... -->
 
-![ljxw88's github stats](https://github-readme-stats.vercel.app/api?username=ljxw88&show_icons=true&theme=solarized-light)
+<!-- ![ljxw88's github stats](https://github-readme-stats.vercel.app/api?username=ljxw88&show_icons=true&theme=solarized-light) -->
