@@ -8,7 +8,7 @@
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-330c83?style=flat&labelColor=330c83&logo=instagram&logoColor=white)](https://www.instagram.com/rodin_code/) -->
 <!-- [![Gmail](https://img.shields.io/badge/-Gmail-330c83?style=flat&logo=Gmail&logoColor=white)](jiaxu.liu@ieee.com) -->
 - 😈 This is Jiaxu, call me **Michael** :-)
-- 🔭 I’m currently learning & working on `Learning Theory`
+- 🔭 I’m currently learning & working on `Graph Learning Theory`
 - 📫 To reach me -> ``jiaxu.liu@ieee.org``
 <!-- - ⚡ Fun fact: Sydney is actually in both Canada and Australia... -->
 
