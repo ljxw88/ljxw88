@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Non Terrae Plus Ultra!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Non Terrae Plus Ultra!
 
 <!-- <img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/rishab-sharma/rishab-sharma/main/image.svg" /> -->
 <!-- 
