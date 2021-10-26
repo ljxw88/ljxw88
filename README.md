@@ -11,6 +11,5 @@
 - 🔭 I’m currently learning & working on `Graph Learning Theory`
 - 📫 To reach me -> ``jiaxu.liu@ieee.org``; This is my casual email, but please don't spam me (●'◡'●)
 - ⚡ I'm keen on contributing to the coding community, as always
-- 😅 我不是二次元
 
 <!-- ![ljxw88's github stats](https://github-readme-stats.vercel.app/api?username=ljxw88&show_icons=true&theme=solarized-light) -->
