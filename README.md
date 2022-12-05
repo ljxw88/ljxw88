@@ -9,7 +9,7 @@
 <!-- [![Gmail](https://img.shields.io/badge/-Gmail-330c83?style=flat&logo=Gmail&logoColor=white)](jiaxu.liu@ieee.com) -->
 - 😈 This is Jiaxu, call me **Michael** :-)
 - 🔭 I’m working on geometric graph representation learning, especially with embedding space differnet from Euclidean (e.g. hyperbolic).
-- 📫 To reach me -> ``jiaxu.liu@ieee.org``; This is my casual email, but please don't spam me (●'◡'●)
-- ⚡ I'm keen on contributing to the community, as always
+- 📫 To reach me -> ``jiaxu.liu@ieee.org``; This is my casual email, but please don't spam me (●'◡'●).
+- ⚡ I'm keen on contributing to the community, as always.
 
 <!-- ![ljxw88's github stats](https://github-readme-stats.vercel.app/api?username=ljxw88&show_icons=true&theme=solarized-light) -->
