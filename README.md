@@ -8,7 +8,7 @@
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-330c83?style=flat&labelColor=330c83&logo=instagram&logoColor=white)](https://www.instagram.com/rodin_code/) -->
 <!-- [![Gmail](https://img.shields.io/badge/-Gmail-330c83?style=flat&logo=Gmail&logoColor=white)](jiaxu.liu@ieee.com) -->
 - 😈 This is Jiaxu, call me **Michael** :-)
-- 🔭 I’m interested in geometric deep learning (Graph), Riemannian optimization (Hyperbolic), and kernel methods (NTK)
+- 🔭 I’m now working on Continuous Graph Learning (ODE/PDE), Large Language Model Safty (RedTeaming & Defense)
 - 📫 To reach me -> ``jiaxu.liu@ieee.org``; This is my casual email, but please don't spam me (●'◡'●).
 - ⚡ I'm keen on contributing to the community, as always.
 
