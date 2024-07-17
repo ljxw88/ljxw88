@@ -9,7 +9,7 @@
 <!-- [![Gmail](https://img.shields.io/badge/-Gmail-330c83?style=flat&logo=Gmail&logoColor=white)](jiaxu.liu@ieee.com) -->
 - 😈 This is Jiaxu, call me **Michael** :-)
 - 🔭 I’m now working on Continuous Graph Learning (ODE/PDE), Large Language Model Safty (RedTeaming & Defense)
-- 📫 To reach me -> ``jiaxu.liu.liverpool@gmail.com`` (the previous ieee.org account is abandoned) (●'◡'●).
+- 📫 To reach me -> ``jiaxu.liu.liverpool@gmail.com`` (the previous ieee.org address is abandoned) (●'◡'●).
 - ⚡ I'm keen on contributing to the community, as always.
 
 <!-- ![ljxw88's github stats](https://github-readme-stats.vercel.app/api?username=ljxw88&show_icons=true&theme=solarized-light) -->
