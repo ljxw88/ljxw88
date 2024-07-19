@@ -11,7 +11,7 @@
 - 🔭 I’m now working on
   - Continuous Graph Learning (ODE/PDE)
   - Geometric Explanation of Neural Networks
-  - Reinforcement Learning
+  - Reinforcement Learning (With Human-Feedback)
   - (Muti-Modality) Large Language Model Safty (Red-Teaming & Defense)
 - 📫 To reach me -> ``jiaxu.liu.liverpool@gmail.com`` (the previous ieee.org address is abandoned) (●'◡'●).
 - ⚡ I'm keen on contributing to the community, as always.
