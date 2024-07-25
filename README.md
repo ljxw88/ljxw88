@@ -13,7 +13,7 @@
   - Geometric Explanation of Neural Networks
   - Reinforcement Learning (With Human-Feedback)
   - (Muti-Modality) Large Language Model Safty (Red-Teaming & Defense)
-- 📫 To reach me -> ``jiaxu.liu.liverpool@gmail.com`` (the previous ieee.org address is abandoned) (●'◡'●).
+- 📫 To reach me -> ``jiaxu.liu.liverpool@gmail.com`` (the previous ieee.org address is deprecated) (●'◡'●).
 - ⚡ I'm keen on contributing to the community, as always.
 
 <!-- ![ljxw88's github stats](https://github-readme-stats.vercel.app/api?username=ljxw88&show_icons=true&theme=solarized-light) -->
